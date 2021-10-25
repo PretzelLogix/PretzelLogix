@@ -1,6 +1,6 @@
 - 👋 Hey there, this is @PretzelLogix (dot net)
 - 👀 https://PretzelLogix.net is a website dedicated to the exploration of technology
-- 🌱 Topics range from Analog to Digital, Cameras to Code, Networking and Power, as well as Software and Storage
+- 🌱 Topics range from Analog to Digital, Cameras to Code, Networking and Power, Software and Storage
 - 📫 Contact: https://www.pretzellogix.net/about/
 
 <!---
